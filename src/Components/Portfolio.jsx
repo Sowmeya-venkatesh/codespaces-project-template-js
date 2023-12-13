@@ -42,16 +42,16 @@ const projectList = [
     url: "https://github.com/Sowmeya-venkatesh/Students-performance-prediction.github.io",
   },
   {
-    title: "Evoter",
+    title: "E-Voter",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "blockchain-based project for secure and convenient voting. Using Aadhar card, the voter can vote from anywhere in the world.",
+    url: "https://github.com/Sowmeya-venkatesh/E-Voter",
   },
   {
     title: "Biometric Contactless Identification Card",
     description:
       "A Unique Authorization Card with Radio Frequency, and Aurdino to control and Coordinate Actions of the System.",
-    url: "https://github.com/Sowmeya-venkatesh/Students-performance-prediction.github.io",
+    url: "https://youtu.be/VE2ZAb5-YKE?si=uNHzEepJ9ybwL2I1",
   },
 ];
 
